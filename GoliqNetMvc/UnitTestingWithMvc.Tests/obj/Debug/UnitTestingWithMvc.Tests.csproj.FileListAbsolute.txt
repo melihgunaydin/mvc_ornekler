@@ -1,0 +1,84 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Owin.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\EntityFramework.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\EntityFramework.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.csprojResolveAssemblyReference.cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\UnitTestingWithMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.csprojResolveAssemblyReference.cache
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.Tests.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Owin.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\EntityFramework.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\UnitTestingWithMvc.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\EntityFramework.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\UnitTestingWithMvc.Tests\obj\Debug\UnitTestingWithMvc.Tests.pdb

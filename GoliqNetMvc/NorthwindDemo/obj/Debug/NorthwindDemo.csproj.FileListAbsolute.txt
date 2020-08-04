@@ -1,0 +1,86 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\obj\Debug\NorthwindDemo.csprojResolveAssemblyReference.cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\obj\Debug\NorthwindDemo.Models.DataAccess.Migrations.FirstMigration.resources
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\obj\Debug\NorthwindDemo.csproj.GenerateResource.Cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\NorthwindDemo.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\NorthwindDemo.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\NorthwindDemo.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\EntityFramework.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\EntityFramework.SqlServer.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\EntityFramework.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\EntityFramework.SqlServer.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Webpages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\obj\Debug\NorthwindDemo.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\NorthwindDemo\NorthwindDemo\obj\Debug\NorthwindDemo.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\FluentValidation.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\FluentValidation.Mvc.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\FluentValidation.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\FluentValidation.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\FluentValidation.Mvc.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\da\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\de\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\es\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\fi\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\fr\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\it\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\ko\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\mk\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\nl\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\pl\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\pt\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\ru\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\sv\FluentValidation.resources.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\NorthwindDemo\NorthwindDemo\bin\tr\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\NorthwindDemo.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\NorthwindDemo.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\NorthwindDemo.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\EntityFramework.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\EntityFramework.SqlServer.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\FluentValidation.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\FluentValidation.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\EntityFramework.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\EntityFramework.SqlServer.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\FluentValidation.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\FluentValidation.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\FluentValidation.Mvc.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Webpages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\da\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\de\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\es\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\fi\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\fr\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\it\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\ko\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\mk\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\nl\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\pl\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\pt\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\ru\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\sv\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\bin\tr\FluentValidation.resources.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\obj\Debug\NorthwindDemo.csprojResolveAssemblyReference.cache
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\obj\Debug\NorthwindDemo.Models.DataAccess.Migrations.FirstMigration.resources
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\obj\Debug\NorthwindDemo.csproj.GenerateResource.Cache
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\obj\Debug\NorthwindDemo.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\NorthwindDemo\obj\Debug\NorthwindDemo.pdb

@@ -1,0 +1,56 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\FirstMvcApp.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\FirstMvcApp.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\FirstMvcApp.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Webpages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\bin\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\obj\Debug\FirstMvcApp.csprojResolveAssemblyReference.cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\obj\Debug\FirstMvcApp.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\FirstMvcApp\FirstMvcApp\obj\Debug\FirstMvcApp.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.pdb
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.dll.config
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\FirstMvcApp.pdb
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Helpers.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Mvc.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Razor.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Razor.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Helpers.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\bin\System.Web.Mvc.xml
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.csprojAssemblyReference.cache
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.csproj.CopyComplete
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.dll
+C:\Users\fenoh\Desktop\UdemyMVC\Mvc Framework 5 Proje Örnekleri\GoliqNetMvc\FirstMvcApp\obj\Debug\FirstMvcApp.pdb

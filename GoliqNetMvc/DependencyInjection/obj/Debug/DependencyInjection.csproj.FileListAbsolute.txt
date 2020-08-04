@@ -1,0 +1,39 @@
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\DependencyInjection.dll.config
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\DependencyInjection.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\DependencyInjection.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Ninject.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Helpers.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Mvc.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Razor.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.Razor.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\Ninject.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Razor.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Webpages.Razor.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Helpers.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\bin\System.Web.Mvc.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\DependencyInjection.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\DependencyInjection.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\DependencyInjection.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\Ninject.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\Ninject.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Webpages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\obj\Debug\DependencyInjection.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\DependencyInjection\obj\Debug\DependencyInjection.pdb

@@ -1,0 +1,17 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\SecurityDemo.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\SecurityDemo.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\SecurityDemo.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Webpages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\bin\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\obj\Release\SecurityDemo.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\SecurityDemo\SecurityDemo\obj\Release\SecurityDemo.pdb

@@ -1,0 +1,35 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Webpages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\bin\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\obj\Debug\PassingDataFromControllersToView.csprojResolveAssemblyReference.cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\obj\Debug\PassingDataFromControllersToView.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\PassingDataFromControllersToView\PassingDataFromControllersToView\obj\Debug\PassingDataFromControllersToView.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\PassingDataFromControllersToView.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Webpages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\obj\Debug\PassingDataFromControllersToView.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\PassingDataFromControllersToView\obj\Debug\PassingDataFromControllersToView.pdb

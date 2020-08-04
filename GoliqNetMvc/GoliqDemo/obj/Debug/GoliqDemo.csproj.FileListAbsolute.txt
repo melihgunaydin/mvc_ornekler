@@ -1,0 +1,49 @@
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\GoliqDemo.dll.config
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\GoliqDemo.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\GoliqDemo.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Helpers.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Mvc.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Razor.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Razor.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Helpers.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Mvc.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\obj\Debug\GoliqDemo.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\obj\Debug\GoliqDemo.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\obj\Debug\GoliqDemo.csprojResolveAssemblyReference.cache
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\Antlr3.Runtime.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\Newtonsoft.Json.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Optimization.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\WebGrease.dll
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\Antlr3.Runtime.pdb
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\Newtonsoft.Json.xml
+C:\Users\GoliqNet\Documents\Visual Studio 2013\Projects\GoliqDemo\GoliqDemo\bin\System.Web.Optimization.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\GoliqDemo.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\GoliqDemo.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\GoliqDemo.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\Antlr3.Runtime.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\Newtonsoft.Json.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Optimization.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\WebGrease.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\Antlr3.Runtime.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\Newtonsoft.Json.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Optimization.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\bin\System.Web.WebPages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\obj\Debug\GoliqDemo.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\GoliqDemo\obj\Debug\GoliqDemo.pdb

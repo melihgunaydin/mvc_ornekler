@@ -1,0 +1,35 @@
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\CustomActionSelector.dll.config
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\CustomActionSelector.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\CustomActionSelector.pdb
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Helpers.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Mvc.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.Deployment.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.Razor.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.Deployment.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Webpages.Razor.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Helpers.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\bin\System.Web.Mvc.xml
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\obj\Debug\CustomActionSelector.csprojResolveAssemblyReference.cache
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\obj\Debug\CustomActionSelector.dll
+c:\users\goliqnet\documents\visual studio 2013\Projects\CustomActionSelector\CustomActionSelector\obj\Debug\CustomActionSelector.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\CustomActionSelector.dll.config
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\CustomActionSelector.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\CustomActionSelector.pdb
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Helpers.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Mvc.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.Deployment.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.Razor.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.Deployment.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Webpages.Razor.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Helpers.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\bin\System.Web.Mvc.xml
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\obj\Debug\CustomActionSelector.dll
+E:\Goliq Eğitim\Mvc 5\Eğitim Dokümanları\GoliqNetMvc\CustomActionSelector\obj\Debug\CustomActionSelector.pdb
